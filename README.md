@@ -57,5 +57,5 @@ This repository contains a single main file, `app.py`, which manages session sta
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/talentscout-hiring-assistant.git
+https://github.com/abenaykrishna/TalentScout-Hiring-Assistant.git
 cd talentscout-hiring-assistant
